@@ -5,7 +5,7 @@
   <h3>Desarrollador FullStack en el Ministerio de Educación de la Nación</h3>
 </div >
 <div align="center">
-  <h3>Estudiante de <span>licenciatura en informática</span> en la <strong><br>Universidad Nacional de Hurlingham</strong></h3>
+  <h3>Estudiante de Licenciatura en Informática en la <br>Universidad Nacional de Hurlingham</h3>
 </div >
 <div>
   
