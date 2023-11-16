@@ -1,6 +1,19 @@
-### Hi there 👋
+<div align= "center">
+  <h1>👋 Hola, soy Javier</h1>  
+</div>
+<div align="center">
+  <h3>Desarrollador FullStack en el Ministerio de Educación de la Nación</h3>
+</div >
+<div align="center">
+  <h3>Estudiante de <span>licenciatura en informática</span> en la <strong><br>Universidad Nacional de Hurlingham</strong></h3>
+</div >
+<div>
+  
+<
+<div>
+  
+</div>
 
-<!--
 **JavierIgnacioMorales/JavierIgnacioMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +26,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
