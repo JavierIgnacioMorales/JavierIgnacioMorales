@@ -10,12 +10,6 @@
 </div >
 <div>
 <hr>
-<p>Obviamente los trabajos en el ministerio no van a estar en los repositorios, pero muestro algunas imágenes de algunos de ellos</p>
-<div>
-  <h1>SEAD</h1>
-  <h3>Servicio Educación a distancia</h3>
-</div>
-
 <!--
 **JavierIgnacioMorales/JavierIgnacioMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
