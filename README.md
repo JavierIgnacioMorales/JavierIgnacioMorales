@@ -9,8 +9,11 @@
   <h3>Estudiante de Licenciatura en Informática en la <br>Universidad Nacional de Hurlingham</h3>
 </div >
 <div>
-  
+<hr>
+<p>Obviamente los trabajos en el ministerio no van a estar en los repositorios, pero muestro algunas imágenes de algunos de ellos</p>
 <div>
+  <h1>SEAD</h1>
+  <h3>Servicio Educación a distancia</h3>
 </div>
 
 <!--
