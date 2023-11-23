@@ -6,13 +6,22 @@
   
 </div>
 <div align="start">
-  <h3>👨‍💻 Desarrollador Fullstack en el Ministerio de Educación de la Nación Argentina 🇦🇷 </h3>
+  <h3>👨‍💻 Desarrollador Fullstack en el Ministerio de Educación de la Nación Argentina. 🇦🇷 </h3>
 </div >
 <div align="start">
-  <h3>👨‍🎓 Estudiante de Licenciatura en Informática en la Universidad Nacional de Hurlingham 🌎</h3>
+  <h3>👨‍🎓 Estudiante de Licenciatura en Informática en la Universidad Nacional de Hurlingham. 🌎</h3>
 </div >
 <div>
 <hr>
+
+  ### Programming Languages :scroll:
+
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp;
 <!--
 **JavierIgnacioMorales/JavierIgnacioMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
