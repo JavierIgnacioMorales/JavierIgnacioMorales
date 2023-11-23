@@ -14,17 +14,22 @@
 <div>
 <hr>
 
-### Tecnologías que utilizo para trabajar :scroll:
+### Tecnologías utilizadas para trabajar :scroll:
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/js.svg" />&nbsp; 
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/html.svg" />&nbsp; 
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/css.svg" />&nbsp; 
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/csharp.svg" />&nbsp;
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/.net.png" />&nbsp;
-<img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/sql.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/sqlserver.png" />&nbsp;
 
-### Tecnologías que uso para otras cosas :scroll:
-<img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/python.svg" />&nbsp; 
+### Tecnologías para otras cosas :scroll:
+<img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/angular.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/python.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/selenium.svg" />&nbsp;
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/java.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/spring.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/cplusplus.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/mysql.png" />&nbsp;
 <!--
 **JavierIgnacioMorales/JavierIgnacioMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
