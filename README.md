@@ -14,14 +14,17 @@
 <div>
 <hr>
 
-  ### Programming Languages :scroll:
+### Tecnologías que utilizo para trabajar :scroll:
+<img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/js.svg" />&nbsp; 
+<img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/html.svg" />&nbsp; 
+<img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/css.svg" />&nbsp; 
+<img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/csharp.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/.net.png" />&nbsp;
+<img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/sql.svg" />&nbsp;
 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp;
+### Tecnologías que uso para otras cosas :scroll:
+<img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/python.svg" />&nbsp; 
+<img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/java.svg" />&nbsp;
 <!--
 **JavierIgnacioMorales/JavierIgnacioMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
