@@ -1,12 +1,15 @@
 
 <div align= "center">
-  <h1>👋 Hola, soy Javier</h1>  
+  <h1>👋 Hola, soy Javier 💻🧉⚽🎬</h1>  
 </div>
-<div align="center">
-  <h3>Desarrollador FullStack en el Ministerio de Educación de la Nación</h3>
+<div>
+  
+</div>
+<div align="start">
+  <h3>👨‍💻 Desarrollador Fullstack en el Ministerio de Educación de la Nación Argentina 🇦🇷 </h3>
 </div >
-<div align="center">
-  <h3>Estudiante de Licenciatura en Informática en la <br>Universidad Nacional de Hurlingham</h3>
+<div align="start">
+  <h3>👨‍🎓 Estudiante de Licenciatura en Informática en la Universidad Nacional de Hurlingham 🌎</h3>
 </div >
 <div>
 <hr>
