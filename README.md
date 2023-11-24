@@ -1,3 +1,6 @@
+<div align=center>
+   <img height="200" width="380" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/проверка-codes.gif" />&nbsp; <img height="200" width="380" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/trabajando.gif" />&nbsp;
+</div>
 
 <div align= "center">
   <h1>👋 Hola, soy Javier 💻🧉⚽🎬</h1>  
@@ -13,8 +16,8 @@
 </div >
 <div>
 <hr>
-
-### Tecnologías utilizadas para trabajar <img height="64" width="78" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/trabajando.gif" />&nbsp;
+  
+### Tecnologías utilizadas para trabajar
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/js.svg" />&nbsp; 
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/html.svg" />&nbsp; 
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/css.svg" />&nbsp; 
@@ -22,7 +25,7 @@
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/.net.png" />&nbsp;
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/sqlserver.png" />&nbsp;
 
-### Tecnologías para otras cosas <img height="64" width="78" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/проверка-codes.gif" />&nbsp;
+### Tecnologías para otras cosas
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/angular.svg" />&nbsp;
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/python.svg" />&nbsp;
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/selenium.svg" />&nbsp;
