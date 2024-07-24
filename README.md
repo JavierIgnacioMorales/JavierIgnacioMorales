@@ -29,6 +29,7 @@
 
 ### Otros conocimientos
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/angular.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/react.png" />&nbsp;
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/python.svg" />&nbsp;
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/selenium.svg" />&nbsp;
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/java.svg" />&nbsp;
