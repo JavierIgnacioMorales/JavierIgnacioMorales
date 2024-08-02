@@ -9,7 +9,10 @@
   
 </div>
 <div align="start">
-  <h3>👨‍💻Desarrollador Fullstack en el Ministerio de Educación de la Nación Argentina. 🇦🇷 </h3>
+  <h1>TÉCNICO EN PROGRAMACIÓN.</h1>
+</div >
+<div align="start">
+  <h3>👨‍💻Desarrollador Fullstack en el Ministerio de Capital Humano, Secretaría de Educación de la Nación Argentina. 🇦🇷 </h3>
 </div >
 <div align="start">
   <h3>👨‍🎓 Estudiante de Licenciatura en Informática en la Universidad Nacional de Hurlingham. 🌎</h3>
