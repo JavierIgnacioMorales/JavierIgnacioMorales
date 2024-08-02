@@ -9,7 +9,7 @@
   
 </div>
 <div align="center">
-  <h1> ### TÉCNICO EN PROGRAMACIÓN.</h1>
+  <h1>TÉCNICO EN PROGRAMACIÓN.</h1>
 </div >
 <div align="start">
   <h3>👨‍💻Desarrollador Fullstack en el Ministerio de Capital Humano, Secretaría de Educación de la Nación Argentina. 🇦🇷 </h3>
