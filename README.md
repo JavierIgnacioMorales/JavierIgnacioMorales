@@ -25,8 +25,8 @@
 <div>
 <hr>
 
+### Tecnologías utilizadas para trabajar
 <div align="center">
-   ### Tecnologías utilizadas para trabajar
    <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/js.svg" />&nbsp; 
    <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/html.svg" />&nbsp; 
    <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/css.svg" />&nbsp; 
@@ -40,6 +40,7 @@
 
 
 ### Otros conocimientos
+<div align="center">
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/angular.svg" />&nbsp;
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/react.png" />&nbsp;
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/blazor.png" />&nbsp;
@@ -50,7 +51,7 @@
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/cplusplus.svg" />&nbsp;
 <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/mysql.png" />&nbsp;
 <img height="36" width="36" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/githubred.png" />&nbsp;
-
+</div >
 
 <!--
 **JavierIgnacioMorales/JavierIgnacioMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
