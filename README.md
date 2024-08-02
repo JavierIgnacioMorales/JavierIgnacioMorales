@@ -3,7 +3,7 @@
 </div>
 
 <div align= "center">
-  <h1>👋 Hola, soy Javier 💻🧉⚽🎬</h1>  
+  <h1>👋 Hola, soy Javier</h1>  
 </div>
 <div>
   
@@ -43,7 +43,7 @@
 
 <!--
 **JavierIgnacioMorales/JavierIgnacioMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+💻🧉⚽🎬
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
