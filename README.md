@@ -4,7 +4,7 @@
 </div>
 -->
 <div align=center>
-   <img height="400"  src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/hellowordancho.gif" />&nbsp;
+   <img height="350"  src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/hellowordancho.gif" />&nbsp;
 </div>
 
 <div align= "center">
