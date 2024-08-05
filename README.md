@@ -26,29 +26,29 @@
 
 <div align="center">
    <h3>Tecnologías utilizadas para trabajar</h3>
-   <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/js.svg" />&nbsp; 
-   <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/html.svg" />&nbsp; 
-   <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/css.svg" />&nbsp; 
-   <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/csharp.svg" />&nbsp;
-   <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/.net.png" />&nbsp;
-   <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/sql.png" />&nbsp;
-   <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/planer.png" />&nbsp;
-   <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/gitlab.png" />&nbsp;
-   <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/gitpng.png" />&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/js.svg" />&nbsp; 
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/html.svg" />&nbsp; 
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/css.svg" />&nbsp; 
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/csharp.svg" />&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/.net.png" />&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/sql.png" />&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/planer.png" />&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/gitlab.png" />&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/gitpng.png" />&nbsp;
 </div >
 
 <div align="center">
    <h3>Otros conocimientos</h3>      
-   <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/angular.svg" />&nbsp;
-   <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/react.png" />&nbsp;
-   <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/blazor.png" />&nbsp;
-   <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/python.svg" />&nbsp;
-   <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/selenium.svg" />&nbsp;
-   <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/java.svg" />&nbsp;
-   <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/spring.svg" />&nbsp;
-   <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/cplusplus.svg" />&nbsp;
-   <img height="32" width="32" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/mysql.png" />&nbsp;
-   <img height="36" width="36" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/githubred.png" />&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/angular.svg" />&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/react.png" />&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/blazor.png" />&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/python.svg" />&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/selenium.svg" />&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/java.svg" />&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/spring.svg" />&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/cplusplus.svg" />&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/mysql.png" />&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/githubred.png" />&nbsp;
 </div >
 
 <!--
