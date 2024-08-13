@@ -26,15 +26,15 @@
 
 <div align="center">
    <h3>Tecnologías utilizadas para trabajar</h3>
-   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/js.svg" />&nbsp; 
-   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/html.svg" />&nbsp; 
-   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/css.svg" />&nbsp; 
-   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/csharp.svg" />&nbsp;
-   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/.net.png" />&nbsp;
-   <img height="40" width="40" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/sql.png" />&nbsp;
-   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/planer.png" />&nbsp;
-   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/gitlab.png" />&nbsp;
-   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/gitpng.png" />&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/js.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/html.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/css.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/csharp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/.net.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="40" width="40" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/sql.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/planer.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/gitlab.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/gitpng.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div >
 
 <div align="center">
