@@ -39,16 +39,16 @@
 
 <div align="center">
    <h3>Otros conocimientos</h3>      
-   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/angular.svg" />&nbsp;
-   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/react.png" />&nbsp;
-   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/blazor.png" />&nbsp;
-   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/python.svg" />&nbsp;
-   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/selenium.svg" />&nbsp;
-   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/java.svg" />&nbsp;
-   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/spring.svg" />&nbsp;
-   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/cplusplus.svg" />&nbsp;
-   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/mysql.png" />&nbsp;
-   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/githubred.png" />&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/angular.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/react.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/blazor.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/python.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/selenium.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/java.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/spring.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/cplusplus.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/mysql.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="38" width="38" src="https://github.com/JavierIgnacioMorales/JavierIgnacioMorales/blob/main/assets/githubred.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div >
 
 <!--
